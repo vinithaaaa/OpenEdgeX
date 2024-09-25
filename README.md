@@ -12,4 +12,5 @@ Here are points you could use for an open source workshop:
   <li>Building Static Websites with Open Source Tools</li>
 </ul>
 #POSTER
+<br>
 ![OpenEdgeX](https://github.com/user-attachments/assets/c30636b6-110b-4bc5-adf4-b3e36ee571db)
