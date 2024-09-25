@@ -13,4 +13,4 @@ Here are points you could use for an open source workshop:
 </ul>
 <h1>POSTER</h1>
 <br>
-![OpenEdgeX](https://github.com/yashwanths814/OpenEdgeX/blob/main/OpenEdgeX.png)
+<img src=https://github.com/yashwanths814/OpenEdgeX/blob/main/OpenEdgeX.png">
