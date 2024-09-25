@@ -11,6 +11,6 @@ Here are points you could use for an open source workshop:
   <li>Contributing to Open Source Projects</li>
   <li>Building Static Websites with Open Source Tools</li>
 </ul>
-#POSTER
+<h1>POSTER</h1>
 <br>
-![OpenEdgeX]([https://github.com/user-attachments/assets/c30636b6-110b-4bc5-adf4-b3e36ee571db](https://github.com/yashwanths814/OpenEdgeX/blob/main/OpenEdgeX.png))
+![OpenEdgeX](https://github.com/yashwanths814/OpenEdgeX/blob/main/OpenEdgeX.png))
