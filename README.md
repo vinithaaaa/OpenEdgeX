@@ -1,2 +1,2 @@
-# OpenEdgeX
-Open Source Edge Exploration
+# OpenEdgeX (Open Source Edge Exploration)
+
